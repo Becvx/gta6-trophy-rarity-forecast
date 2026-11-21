@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 out/
+
+# makefun kit (large files - not needed in git)
+cli/makefun.mjs
+harness/harness-src.tar.gz
+harness/harness-src.tar.gz.sha256
